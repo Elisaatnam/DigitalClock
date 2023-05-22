@@ -23,14 +23,6 @@ let wochenTag = [
 	"Saturday",
 ];
 
-// #Level 1_1
-/* const body = document.querySelector("body");
-
-let currentDate = new Date();
-body.innerHTML = `${currentDate}<br>Jahr: ${currentDate.getFullYear()}<br>Monat: ${currentDate.getMonth()}<br>Tag: ${currentDate.getDate()}<br>Stunde: ${currentDate.getHours()}<br>Minute: ${currentDate.getMinutes()}<br>Weekday: ${
-	wochenTag[currentDate.getDay()]
-}<br>Month: ${monate[currentDate.getMonth()]}`; */
-
 //! Level 1_2 Digital Clock
 
 const dateOutput = document.querySelector("#dateOutput");
